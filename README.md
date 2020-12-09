@@ -8,3 +8,6 @@ Tihs can be changed by entering your password, and then typing in your new passw
 # Encryption
 This program decrypts the file using your password, and automatically encrypts it upon closing
 
+# Log
+FMTY automatically logs failed password attempts with their date and time
+These logs go into Log.txt
